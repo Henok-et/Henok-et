@@ -5,8 +5,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amde-et" alt="amde-et" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br>
 
 - 🔭 I’m currently working on **Personal Projects**
+- 
 
 - 🌱 I’m currently learning **fullstack software engineering at Alx/holberton**
 
